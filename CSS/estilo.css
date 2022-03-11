@@ -1,0 +1,14 @@
+.container{
+    display:flex;
+    background-color: blueviolet;
+    justify-content:spac;
+    flex-wrap: wrap-reverse;
+    margin: 25px;
+    height: 200px;
+    align-content: flex-end;
+}
+.item{
+    font-size: 40px;
+    color: blue;
+    order: -1;
+}
